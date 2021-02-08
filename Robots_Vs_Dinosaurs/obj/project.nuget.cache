@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLoVrzElg1x63zOKzAauRbp1GDdHvCW5xNdp/b0hpEZyW1j1g1eqeSO7BZKgiEMJWLY0GRtXESvTy+EyTDfJlw==",
+  "success": true,
+  "projectFilePath": "D:\\Applications\\GitExample\\Robots_Vs_Dinosaurs\\Robots_Vs_Dinosaurs\\Robots_Vs_Dinosaurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
